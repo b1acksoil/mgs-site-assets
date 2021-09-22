@@ -1,0 +1,33 @@
+[
+  {
+    "title": "实用工具",
+    "links": [
+      { "name": "纯净音游下载站", "href": "https://616.sb/" },
+      { "name": "全国音游地图", "href": "https://map.bemanicn.com/" },
+      { "name": "太鼓达人网页版 1", "href": "https://taiko.bui.pm/" },
+      { "name": "太鼓达人网页版 2", "href": "https://tg.lv5.ac/" },
+      { "name": "osu!网页版", "href": "https://osugame.online/" },
+      { "name": "osu!谱面镜像站(Sayobot)", "href": "https://osu.sayobot.cn/" }
+    ]
+  },
+  {
+    "title": "音游官网",
+    "links": [
+      { "name": "Phigros", "href": "https://pigeon-games.com/" },
+      { "name": "Arcaea", "href": "https://arcaea.lowiro.com/zh" },
+      { "name": "osu!", "href": "https://osu.ppy.sh/home" },
+      { "name": "Muse Dash", "href": "http://www.peroperogames.com/" },
+      { "name": "Malody", "href": "http://m.mugzone.net/" },
+      { "name": "Cytoid", "href": "https://cytoid.io/" }
+    ]
+  },
+  {
+    "title": "友情链接",
+    "links": [
+      { "name": "南昌三中官网", "href": "http://www.jxncsz.cn/" },
+      { "name": "b1acksoil的博客", "href": "https://blacksoil.top/" },
+      { "name": "音游吧", "href": "https://tieba.baidu.com/f?ie=utf-8&kw=%E9%9F%B3%E6%B8%B8" },
+      { "name": "十九魔方社官网", "href": "https://19cc.top/" }
+    ]
+  }
+]
